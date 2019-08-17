@@ -6,3 +6,4 @@
 - [CSS3核心总结](https://blog.csdn.net/Mr_zhaoz/article/details/77936641?tdsourcetag=s_pcqq_aiomsg)
 - [一些有趣的小技巧](https://www.cnblogs.com/pcyy/p/5655542.html)
 - [halting problem](https://blog.csdn.net/Q_giorgio/article/details/91045453)
+- [PCA的数学原理](http://blog.codinglabs.org/articles/pca-tutorial.html)
