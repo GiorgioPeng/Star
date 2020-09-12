@@ -8,3 +8,4 @@
 - [halting problem](https://blog.csdn.net/Q_giorgio/article/details/91045453)
 - [PCA的数学原理](http://blog.codinglabs.org/articles/pca-tutorial.html)
 - [usecase的常见误区](http://www.51testing.com/html/01/n-249201.html)
+- [(CSS):last-child与:last-of-type区别](https://www.cnblogs.com/whbniit/p/8996987.html)
